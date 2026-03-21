@@ -109,7 +109,7 @@ const Navbar = () => {
       <div className="w-full bg-neutral-900 text-purple-400 py-2 overflow-hidden">
         <p className="animate-marquee whitespace-nowrap text-sm font-medium">
           Top Performers: MD Mudassir Ansari • Rahul Sharma • Ayesha Sharma •
-          Vishakha Bharti
+          Vishakha Bharti • Srijeet Biswas
         </p>
       </div>
     </>

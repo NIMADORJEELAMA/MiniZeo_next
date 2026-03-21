@@ -221,9 +221,9 @@ export const topPerformers = [
   {
     id: 11,
     name: "Srijeet Biswas",
-    role: "Frontend Developer",
+    role: "Software Developer",
     college: "Maulana Abdul Kalam Azad University of Technology",
-    image: "/assets/profile-pictures/userGirl.jpg",
+    image: "/assets/profile-pictures/1771712378365.jpg",
     certificate: "/assets/Internship_certificate.png",
     work: [
       "Built a real-time Add to Cart system with optimistic UI updates",
