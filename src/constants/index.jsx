@@ -218,6 +218,20 @@ export const topPerformers = [
     ],
     tech: ["React", "Tailwind", "JavaScript"],
   },
+  {
+    id: 11,
+    name: "Srijeet Biswas",
+    role: "Frontend Developer",
+    college: "Maulana Abdul Kalam Azad University of Technology",
+    image: "/assets/profile-pictures/userGirl.jpg",
+    certificate: "/assets/Internship_certificate.png",
+    work: [
+      "Built a real-time Add to Cart system with optimistic UI updates",
+      "Managed cart state globally via React Context API",
+      "Persisted cart data across sessions using localStorage",
+    ],
+    tech: ["React", "Tailwind", "JavaScript"],
+  },
 ];
 
 export const platformLinks = [
